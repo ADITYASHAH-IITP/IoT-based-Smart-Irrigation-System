@@ -14,7 +14,9 @@ In this Project, I will work with Smart irrigation System that has wide scope to
   Flow Chart:
   </b>
    <br>
-![image](https://user-images.githubusercontent.com/37467941/122730172-8ea4ed00-d297-11eb-94ad-c6a6126bab2e.png)
+
+![image](https://user-images.githubusercontent.com/37467941/122730654-14c13380-d298-11eb-9993-4d4d1b860081.png)
+
 <br>
 <b>
   Experimental Setup:
